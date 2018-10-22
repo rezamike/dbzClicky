@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Goku",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/1/1d/GokuSGAHFR.png/revision/latest?cb=20130707004753",
+      "race": "Saiyan"
+    },
+    {
+      "id": 2,
+      "name": "Vegeta",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/7/76/VegetaWelcomeBackGokuWaiting.png/revision/latest?cb=20100708174721",
+      "race": "Saiyan"
+    },
+    {
+      "id": 3,
+      "name": "Frieza",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/0/06/Frieza_DBZ_Ep_95_001.png/revision/latest?cb=20170827054524",
+      "race": "Mutant"
+    },
+    {
+      "id": 4,
+      "name": "Bulma",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/8/83/Dragon-ball-super-76-04-evil-bulma.jpg/revision/latest?cb=20180204223057",
+      "race": "Human (Earthling)"
+    },
+    {
+      "id": 5,
+      "name": "Chi-Chi",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/5/5c/ChiChiEp109.png/revision/latest?cb=20110901221756",
+      "race": "Human (Earthling)"
+    },
+    {
+      "id": 6,
+      "name": "Goten",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/5/55/A1d7582697057663308039f12c7a6ff1.jpg/revision/latest?cb=20151116230947",
+      "race": "Saiyan / Human (Earthling)"
+    },
+    {
+      "id": 7,
+      "name": "Gohan",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/9/94/Potential_Unleashed_Gohan.png/revision/latest?cb=20151023143019",
+      "race": "Saiyan / Human (Earthling)"
+    },
+    {
+      "id": 8,
+      "name": "Krillin",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/f/f0/Krillin_-_Bojack_Unbound_-_001.png/revision/latest?cb=20180823012728",
+      "race": "Human (Earthling)"
+    },
+    {
+      "id": 9,
+      "name": "Master Roshi",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/0/06/Roshitenshin.png/revision/latest?cb=20170716105338",
+      "race": "Human (Earthling)"
+    },
+    {
+      "id": 10,
+      "name": "Piccolo",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/7/7d/PiccoloKingKaisPlanetNV.png/revision/latest?cb=20100509160111",
+      "race": "Namekian"
+    },
+    {
+      "id": 11,
+      "name": "Trunks",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/1/1d/Vlcsnap-2016-02-18-17h35m20s022.png/revision/latest?cb=20160218233532",
+      "race": "Saiyan / Human (Earthling)"
+    },
+    {
+      "id": 12,
+      "name": "Yamcha",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/3/34/YAMCHA.jpg/revision/latest?cb=20170329130030",
+      "race": "Human (Earthling)"
+    }
+  ]

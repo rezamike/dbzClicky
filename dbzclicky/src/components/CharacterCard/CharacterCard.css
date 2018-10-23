@@ -2,7 +2,7 @@
     background: #fff;
     opacity: 0.8;
     border-radius: 2px;
-    height: 250px;
+    height: 200px;
     margin: 1rem;
     position: relative;
     width: 250px;
@@ -37,6 +37,7 @@
   }
   
   .card > .content > ul > li {
-    margin-top: 18px;
+    margin-top: 5px;
+    text-align: left;
   }
   

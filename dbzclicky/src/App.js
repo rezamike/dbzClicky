@@ -17,7 +17,7 @@ class App extends Component {
     let newArr = this.state.arr;
 
     if (newArr.includes(id)) {
-      console.log("poop")
+      // console.log("poop")
     }
     else {
       newArr.push(id);
@@ -29,7 +29,7 @@ class App extends Component {
     })
 
     this.mixErUp();
-    console.log(this.state.score)
+    // console.log(this.state.score)
   }
 
   mixErUp = () => {

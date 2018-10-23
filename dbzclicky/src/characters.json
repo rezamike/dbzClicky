@@ -2,73 +2,73 @@
     {
       "id": 1,
       "name": "Goku",
-      "image": "https://vignette.wikia.nocookie.net/dragonball/images/1/1d/GokuSGAHFR.png/revision/latest?cb=20130707004753",
+      "image": "https://vignette.wikia.nocookie.net/vsbattles/images/5/56/Goku_%28Base%29.png/revision/latest?cb=20160315175220",
       "race": "Saiyan"
     },
     {
       "id": 2,
       "name": "Vegeta",
-      "image": "https://vignette.wikia.nocookie.net/dragonball/images/7/76/VegetaWelcomeBackGokuWaiting.png/revision/latest?cb=20100708174721",
+      "image": "https://vignette.wikia.nocookie.net/vsbattles/images/d/dd/Vegeta_DBZ.png/revision/latest?cb=20170830133245",
       "race": "Saiyan"
     },
     {
       "id": 3,
       "name": "Frieza",
-      "image": "https://vignette.wikia.nocookie.net/dragonball/images/0/06/Frieza_DBZ_Ep_95_001.png/revision/latest?cb=20170827054524",
+      "image": "https://vignette.wikia.nocookie.net/antagonist/images/5/5d/Frieza.png/revision/latest?cb=20150710031339",
       "race": "Mutant"
     },
     {
       "id": 4,
       "name": "Bulma",
-      "image": "https://vignette.wikia.nocookie.net/dragonball/images/8/83/Dragon-ball-super-76-04-evil-bulma.jpg/revision/latest?cb=20180204223057",
+      "image": "https://orig00.deviantart.net/4aca/f/2012/126/c/9/bulma__dragon_ball_z__by_orco05-d4yp1v7.png",
       "race": "Human (Earthling)"
     },
     {
       "id": 5,
       "name": "Chi-Chi",
-      "image": "https://vignette.wikia.nocookie.net/dragonball/images/5/5c/ChiChiEp109.png/revision/latest?cb=20110901221756",
+      "image": "https://vignette.wikia.nocookie.net/vsdebating/images/9/9b/Chi-Chi_as_a_teenager.png/revision/latest?cb=20170723095542",
       "race": "Human (Earthling)"
     },
     {
       "id": 6,
       "name": "Goten",
-      "image": "https://vignette.wikia.nocookie.net/dragonball/images/5/55/A1d7582697057663308039f12c7a6ff1.jpg/revision/latest?cb=20151116230947",
+      "image": "https://vignette.wikia.nocookie.net/dbz-vs/images/c/c2/Goten.png/revision/latest?cb=20151115153718",
       "race": "Saiyan / Human (Earthling)"
     },
     {
       "id": 7,
       "name": "Gohan",
-      "image": "https://vignette.wikia.nocookie.net/dragonball/images/9/94/Potential_Unleashed_Gohan.png/revision/latest?cb=20151023143019",
+      "image": "https://vignette.wikia.nocookie.net/vsbattles/images/9/9d/Gohan_ssj_by_boscha196-d58ypak.png/revision/latest?cb=20170712165153",
       "race": "Saiyan / Human (Earthling)"
     },
     {
       "id": 8,
       "name": "Krillin",
-      "image": "https://vignette.wikia.nocookie.net/dragonball/images/f/f0/Krillin_-_Bojack_Unbound_-_001.png/revision/latest?cb=20180823012728",
+      "image": "https://vignette.wikia.nocookie.net/vsbattles/images/2/29/Krillin_vs_boros.png/revision/latest?cb=20160714004743",
       "race": "Human (Earthling)"
     },
     {
       "id": 9,
       "name": "Master Roshi",
-      "image": "https://vignette.wikia.nocookie.net/dragonball/images/0/06/Roshitenshin.png/revision/latest?cb=20170716105338",
+      "image": "https://vignette.wikia.nocookie.net/vsbattles/images/2/27/Master_Roshi.png/revision/latest?cb=20150317092843",
       "race": "Human (Earthling)"
     },
     {
       "id": 10,
       "name": "Piccolo",
-      "image": "https://vignette.wikia.nocookie.net/dragonball/images/7/7d/PiccoloKingKaisPlanetNV.png/revision/latest?cb=20100509160111",
+      "image": "https://vignette.wikia.nocookie.net/vsbattles/images/0/09/Piccolo_Clothing.png/revision/latest?cb=20161230143009",
       "race": "Namekian"
     },
     {
       "id": 11,
       "name": "Trunks",
-      "image": "https://vignette.wikia.nocookie.net/dragonball/images/1/1d/Vlcsnap-2016-02-18-17h35m20s022.png/revision/latest?cb=20160218233532",
+      "image": "https://vignette.wikia.nocookie.net/vsbattles/images/a/af/Trunks.png/revision/latest?cb=20150727030410",
       "race": "Saiyan / Human (Earthling)"
     },
     {
       "id": 12,
       "name": "Yamcha",
-      "image": "https://vignette.wikia.nocookie.net/dragonball/images/3/34/YAMCHA.jpg/revision/latest?cb=20170329130030",
+      "image": "https://vignette.wikia.nocookie.net/vsbattles/images/9/9a/Draft_1-0.png/revision/latest?cb=20141016021004",
       "race": "Human (Earthling)"
     }
   ]

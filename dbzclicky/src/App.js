@@ -10,7 +10,8 @@ class App extends Component {
   state = {
     characters,
     score: 0,
-    arr: []
+    arr: [],
+    count: 0
   }
 
   clickyThing = (id) => {
@@ -20,6 +21,7 @@ class App extends Component {
       // console.log("poop")
     }
     else {
+      
       newArr.push(id);
       this.setState({ score: this.state.score + 1 });
     }
@@ -28,14 +30,29 @@ class App extends Component {
       arr: newArr
     })
 
-    this.mixErUp();
+    if (this.state.score === 12) {
+      this.setState({
+        score: 0
+      })
+    }
+
+    this.mixErUp(this.state.characters);
     // console.log(this.state.score)
   }
 
-  mixErUp = () => {
-    let char = this.state.characters[Math.floor(Math.random()*this.state.characters.length)];
+  mixErUp = (array) => {
+    var i = array.length,
+      j = 0,
+      temp;
 
-    console.log(char);
+    while (i--) {
+      j = Math.floor(Math.random() * (i + 1));
+
+      temp = array[i];
+      array[i] = array[j];
+      array[j] = temp;
+    }
+    return array;
   }
 
   render() {

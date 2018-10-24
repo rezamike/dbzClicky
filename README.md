@@ -18,7 +18,7 @@ yarn start
 
 ## Deployed Example
 
-(https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+
 
 ## Contributing
 
@@ -27,6 +27,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Version
 
 1.0.1
+
+## Built Using
+
+![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
 
 ## Author
 

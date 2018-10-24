@@ -11,28 +11,37 @@ class App extends Component {
     characters,
     score: 0,
     arr: [],
-    count: 0
+    count: 0,
+    high: 0
   }
 
   clickyThing = (id) => {
     let newArr = this.state.arr;
+    let highScore = this.state.high
 
     if (newArr.includes(id)) {
-      // console.log("poop")
-    }
-    else {
-      
-      newArr.push(id);
-      this.setState({ score: this.state.score + 1 });
+      if(this.state.score > highScore){
+        highScore = this.state.score;
+      }
+      this.setState({
+        high: highScore,
+        score: 0, 
+        arr: []
+      })
     }
 
-    this.setState({
-      arr: newArr
-    })
+    else {
+      newArr.push(id);
+      this.setState({ 
+        score: this.state.score + 1,
+        arr: newArr
+       });
+    }
 
     if (this.state.score === 12) {
       this.setState({
-        score: 0
+        score: 0, 
+        arr: []
       })
     }
 
@@ -60,6 +69,7 @@ class App extends Component {
       <div>
         <Navbar
           score={this.state.score}
+          high={this.state.high}
         />
         <Wrapper>
           {this.state.characters.map(character => (

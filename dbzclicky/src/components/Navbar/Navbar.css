@@ -6,9 +6,10 @@
   color: #2A77AE;
   margin: auto;
   z-index: 100;
-  background: white;
+  background: snow;
   padding: 20px;
-  /* display: flex;
+  display: flex;
+  flex-flow: row wrap;
   justify-content: space-around;
-  align-content: flex-start; */
+  align-content: flex-start;
 }

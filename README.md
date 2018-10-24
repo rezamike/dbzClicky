@@ -30,7 +30,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Built Using
 
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![GitHub Logo](https://logoeps.com/wp-content/uploads/2014/05/37318-github-logo-icon-vector-icon-vector-eps-200x200.png) ![React Logo](https://hackr.io/tutorials/learn-react/logo/logo-react?ver=1535019497) ![HTML5 / CSS Logo](http://www.thewebfusion.com/wp-content/uploads/2018/09/Logo-HTML5-CSS3-200.png) ![Bootstrap Logo](https://img.betapage.co/logo/97757977-97759059.jpg?w=200&h=200&fit=crop)
 
 ## Author
 
